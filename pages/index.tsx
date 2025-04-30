@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { GoogleMap, LoadScript, Marker, MarkerF } from "@react-google-maps/api";
+import { GoogleMap, LoadScript, MarkerF } from "@react-google-maps/api";
 
 type Camera = {
   id: string;
